@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:fontFamily="@font/open_sans_light"
+        android:id="@+id/nav_search"
+        android:title="@string/title_search" />
+
+    <item
+        android:fontFamily="@font/open_sans_light"
+        android:id="@+id/nav_booking"
+        android:title="@string/title_booking" />
+
+    <item
+        android:fontFamily="@font/open_sans_light"
+        android:id="@+id/nav_accoun"
+        android:title="@string/title_account" />
+
+</menu>

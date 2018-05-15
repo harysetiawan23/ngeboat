@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ngeboat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buttom_nav">ButtomNavActivity</string>
+    <string name="title_search">Search</string>
+    <string name="title_booking">Booking</string>
+    <string name="title_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Seach Fragment -->
+    <string name="link">Share your activity to get Credits Point \n <a href="https://www.google.pl/">More Information</a></string>
+    <string name="search_To_filter">search_to_filter</string>
+</resources>
